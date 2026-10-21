@@ -9,9 +9,10 @@
 Use the verb to *`be`* to talk about facts.
 
 Facts can be affirmative: 
-> I **am** a teacher.   
-> He/She/It **is** ...   
+> I **am** a teacher.
+> He/She/It **is** ...
 > You/We/They **are** ...
 
 Facts can be negtive:
-> I **am not** a scout.   
+> I **am not** a scout.
+
